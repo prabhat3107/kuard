@@ -134,6 +134,10 @@ If you want to do both Go server and React.js client dev, you need to do the fol
 
 This should support live reload of any changes to the client.  The Go server will need to be exited and restarted to see changes.
 
+### background color 
+Blue: #419285
+
+
 ### TODO
 * [ ] Make file system browser better.  Show size, permissions, etc.  Might be able to do this by faking out an `index.html` as part of the http.FileSystem stuff.
 * [ ] Clean up form for keygen workload.  It is too big and the form build doesn't have enough flexibility to really shrink it down.
