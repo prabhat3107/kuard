@@ -138,6 +138,7 @@ This should support live reload of any changes to the client.  The Go server wil
 Blue: #419285
 Red: #f48383
 Green: #8bf483
+Yellow: #f4e183
 
 ### TODO
 * [ ] Make file system browser better.  Show size, permissions, etc.  Might be able to do this by faking out an `index.html` as part of the http.FileSystem stuff.
