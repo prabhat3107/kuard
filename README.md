@@ -139,6 +139,8 @@ Blue: #419285
 Red: #f48383
 Green: #8bf483
 Yellow: #f4e183
+Cyan: #83f4f4
+
 
 ### TODO
 * [ ] Make file system browser better.  Show size, permissions, etc.  Might be able to do this by faking out an `index.html` as part of the http.FileSystem stuff.
