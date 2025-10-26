@@ -136,13 +136,20 @@ This should support live reload of any changes to the client.  The Go server wil
 
 ### background color 
 Blue: #419285
+
 Red: #f48383
+
 Green: #8bf483
+
 Yellow: #f4e183
+
 Cyan: #83f4f4
+
 Amber: #f4a583
+
 Purple: #ba83f4
 
+newBlue:
 ### TODO
 * [ ] Make file system browser better.  Show size, permissions, etc.  Might be able to do this by faking out an `index.html` as part of the http.FileSystem stuff.
 * [ ] Clean up form for keygen workload.  It is too big and the form build doesn't have enough flexibility to really shrink it down.
