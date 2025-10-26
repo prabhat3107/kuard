@@ -2,7 +2,7 @@ pipeline {
   agent any
   environment {
     DOCKERHUB_CREDENTIALS = credentials('docker-hub-pat')
-    APP_NAME = "prabhat3107/kuard"
+    APP_NAME = "prabhat3107/kuard-amd64"
     IMAGE_TAG = "newblue"
   }
 
